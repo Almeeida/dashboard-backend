@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules/
+
+# JetBrains IDE directory
+.idea/
+
+# Visual Studio Code's options directory
+.vscode/
+
+# Environment files
+.env
